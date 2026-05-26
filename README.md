@@ -1,29 +1,23 @@
 ﻿# Nginx Production Configuration Templates
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Swift Tech Co.](https://img.shields.io/badge/Built%20by-Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Category](https://img.shields.io/badge/Infrastructure-Template-blue)](https://swifttechco.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Infrastructure Template](https://img.shields.io/badge/Infrastructure-Template-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
-**Full guide and live version:** [https://swifttechco.com/services/digital/hosting-maintenance](https://swifttechco.com/services/digital/hosting-maintenance)
+**Full guide:** [https://swifttechco.com/services/digital/hosting-maintenance](https://swifttechco.com/services/digital/hosting-maintenance)
 
 ---
 
-Battle-tested Nginx configuration templates for production deployments. Covers: SPA routing (React, Vue, Angular), reverse proxy to Node/Python/Go services, SSL/TLS with Let's Encrypt, gzip and Brotli compression, caching headers for static assets, rate limiting, and security headers (CSP, HSTS, X-Frame-Options).
+Battle-tested Nginx configuration templates for production deployments.
 
-## What We Build at Swift Tech Co.
+Covers: SPA routing (React, Vue, Angular), reverse proxy to Node/Python/Go services, SSL/TLS with Let's Encrypt, gzip and Brotli compression, static asset caching, rate limiting, and security headers (CSP, HSTS, X-Frame-Options, X-Content-Type-Options).
 
-**FinTech Platforms** — Payment gateways, neobanks, crypto exchanges, and financial dashboards
-**Quantitative Finance** — Algorithmic trading systems, quant strategies, and institutional-grade market analysis
-**Blockchain, Crypto and DeFi** — Decentralised finance systems, smart contracts, and on-chain analytics
-**Custom Software and Mobile Apps** — iOS, Android, cross-platform apps, and enterprise systems
-**Custom Web and E-Commerce** — Websites, Shopify, WooCommerce, and fully custom storefronts
-**SaaS Platforms and Business Automation** — Multi-tenant platforms, subscription billing, and AI-powered SaaS
-**API Integration and Enterprise Architecture** — Third-party APIs, microservices, and event-driven systems
-**AI Automation and Intelligent Workflows** — Chatbots, document processing, ML pipelines, and automation systems
-**Cloud Infrastructure and DevOps** — AWS, GCP, Kubernetes, Docker, CI/CD, and production DevOps
-**Cybersecurity and Compliance** — Penetration testing, security audits, SOC 2, PCI-DSS, GDPR
-**SEO and Digital Marketing** — Technical SEO, content strategy, paid media, and conversion optimisation
+**Languages:** Nginx config, Bash
+
+**Related service:** [Cloud Infrastructure and DevOps](https://swifttechco.com/services/digital/hosting-maintenance)
 
 ---
 
-**[swifttechco.com](https://swifttechco.com)** | **[Book a Free Discovery Call](https://swifttechco.com/contact)**
+## Swift Tech Co.
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
